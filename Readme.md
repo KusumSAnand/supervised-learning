@@ -2,11 +2,11 @@
 ## Project: Finding Donors for CharityML
 
 ### Overview
-In this project, multiple supervised learning techniques will be applied on data collected for the U.S. census to help CharityML (a fictitious charity organization) identify people most likely to donate to their cause. The analysis begins with data exploration to learn how the census data is recorded. Next, a series of transformations and preprocessing techniques will be applied to manipulate the data into a workable format. This is followed by  evaluation of  several supervised learners  on the data,and consider the best model  suited for the solution. The final selected model will be optimized. 
+In this project, multiple supervised learning techniques will be applied on data collected for the U.S. census to help CharityML (a fictitious charity organization) identify people most likely to donate to their cause. The analysis begins with data exploration to learn how the census data is recorded. Next, a series of transformations and preprocessing techniques will be applied to manipulate the data into a workable format. This is followed by  evaluation of  several supervised learners  on the data,and optimise the final selected model. 
 
 Key takeaways:
 
-- How to identify when preprocessing is needed, and how to apply it.
+- Identify when preprocessing is needed, and how to apply it.
 - How to establish a benchmark for a solution to the problem.
 - What each of several supervised learning algorithms accomplishes given a specific dataset.
 - How to investigate whether a candidate solution model is adequate for the problem.
